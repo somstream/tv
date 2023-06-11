@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SomTV",Kalsan TV (360p)
+https://ap02.iqplay.tv:8082/iqb8002/s03btv/chunks.m3u8
+#EXTINF:-1 tvg-id="SomaliNationalTV.so" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" group-title="SomTV",Somali National TV (360p)
+https://ap02.iqplay.tv:8082/iqb8002/s4ne/chunks.m3u8
